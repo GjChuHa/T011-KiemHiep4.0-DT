@@ -215,38 +215,38 @@ a.btn-xephang{position:fixed;top: 60%;left: 0;z-index: 10;
           tr{text-align: center;}
       }
       .tab-pane{background: url(../images/bc-bxh.png) no-repeat top center;width: 100%;height: 864px;position: relative;
-        .showin{width: 921px;margin:0 auto;padding-top: 270px;}
+        .showin{width: 921px;margin:0 auto;padding-top: 200px;}
       }
-      .tab-pane.kim{filter: hue-rotate(166deg) contrast(1.3) brightness(1.1);
-        tr{
-          img{filter: hue-rotate(194deg) contrast(1) brightness(1);}
-        }
-      }
-      .tab-pane.moc{filter: hue-rotate(231deg) contrast(1.3);
-        tr{
-          img{filter: hue-rotate(124deg) contrast(1) brightness(1);}
-        }
-      }
-      .tab-pane.thuy{filter: hue-rotate(321deg) contrast(1.1) brightness(1.1);
-        tr{
-          img{filter: hue-rotate(40deg) contrast(1) brightness(1);}
-        }
-      }
-      .tab-pane.hoa{filter: hue-rotate(134deg) contrast(1.3) brightness(1.1);
-        tr{
-          img{filter: hue-rotate(226deg) contrast(1) brightness(1);}
-        }
-      }
-      .tab-pane.tho{filter: hue-rotate(178deg) contrast(0.9);
-        tr{
-          img{filter: hue-rotate(182deg) contrast(1.1) brightness(1);}
-        }
-      }
-      .tab-pane.phong{filter: hue-rotate(317deg) contrast(0.9) brightness(1.1);
-        tr{
-          img{filter: hue-rotate(43deg) contrast(1) brightness(1);}
-        }
-      }
+      // .tab-pane.kim{filter: hue-rotate(166deg) contrast(1.3) brightness(1.1);
+      //   tr{
+      //     img{filter: hue-rotate(194deg) contrast(1) brightness(1);}
+      //   }
+      // }
+      // .tab-pane.moc{filter: hue-rotate(231deg) contrast(1.3);
+      //   tr{
+      //     img{filter: hue-rotate(124deg) contrast(1) brightness(1);}
+      //   }
+      // }
+      // .tab-pane.thuy{filter: hue-rotate(321deg) contrast(1.1) brightness(1.1);
+      //   tr{
+      //     img{filter: hue-rotate(40deg) contrast(1) brightness(1);}
+      //   }
+      // }
+      // .tab-pane.hoa{filter: hue-rotate(134deg) contrast(1.3) brightness(1.1);
+      //   tr{
+      //     img{filter: hue-rotate(226deg) contrast(1) brightness(1);}
+      //   }
+      // }
+      // .tab-pane.tho{filter: hue-rotate(178deg) contrast(0.9);
+      //   tr{
+      //     img{filter: hue-rotate(182deg) contrast(1.1) brightness(1);}
+      //   }
+      // }
+      // .tab-pane.phong{filter: hue-rotate(317deg) contrast(0.9) brightness(1.1);
+      //   tr{
+      //     img{filter: hue-rotate(43deg) contrast(1) brightness(1);}
+      //   }
+      // }
     }
   }
 }
