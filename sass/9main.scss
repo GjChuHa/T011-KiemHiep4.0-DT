@@ -94,6 +94,34 @@ a.btn-xephang{position:fixed;top: 60%;left: 0;z-index: 10;
         // &:hover{background:rgb(135 222 255 / 17%);}
          &:hover{background-size: 100% 100%;}
       }
+      .topleft
+      {
+        padding: 0;
+        padding-top: 5px;
+        margin-left: 8px;
+        margin-bottom: 5px;
+      }
+      .topright
+      {
+        padding: 0;
+        padding-top: 5px;
+        margin-right: 8px;
+        margin-bottom: 5px;
+      }
+      .botleft
+      {
+        padding: 0;
+        padding-top: 10px;
+        margin-left: 8px;
+        margin-bottom: 2px;
+      }
+      .botright
+      {
+        padding: 0;
+        padding-top: 10px;
+        margin-right: 8px;
+        margin-bottom: 2px;
+      }
     }
   }
   .block-news{position: relative;

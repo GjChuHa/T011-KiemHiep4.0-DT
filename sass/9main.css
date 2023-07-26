@@ -345,6 +345,30 @@ a.btn-xephang:hover {
 .maincontent .blockdownload .listbutton a:hover {
   background-size: 100% 100%;
 }
+.maincontent .blockdownload .listbutton .topleft {
+  padding: 0;
+  padding-top: 5px;
+  margin-left: 8px;
+  margin-bottom: 5px;
+}
+.maincontent .blockdownload .listbutton .topright {
+  padding: 0;
+  padding-top: 5px;
+  margin-right: 8px;
+  margin-bottom: 5px;
+}
+.maincontent .blockdownload .listbutton .botleft {
+  padding: 0;
+  padding-top: 10px;
+  margin-left: 8px;
+  margin-bottom: 2px;
+}
+.maincontent .blockdownload .listbutton .botright {
+  padding: 0;
+  padding-top: 10px;
+  margin-right: 8px;
+  margin-bottom: 2px;
+}
 .maincontent .block-news {
   position: relative;
 }
