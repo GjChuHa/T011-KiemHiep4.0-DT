@@ -244,7 +244,10 @@ a.btn-xephang:hover {
   position: relative;
 }
 .header .header-center .btnvideo {
-  margin-top: 468px;
+  margin-top: 268px;
+  margin-left: 770px;
+  width: 410px;
+  height: 520px;
 }
 .header .header-center .btnvideo img {
   opacity: 0;
